@@ -1,0 +1,74 @@
+<!DOCTYPE html><head><title>SupersonicAds - AdUnit</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=contain"><meta charset="utf-8"><link rel="icon" href="data:image/x-icon;," type="image/x-icon"><link rel="stylesheet" href="main.min.css"></head><body ng-controller="MainController as main" class="ssa-default-skin {{deviceOs}} full-height template-{{main.templateClass}} landing-{{main.landingClass}}" ng-class="{
+          preCache: isPreCache,
+          nonPreCache: !isPreCache,
+          secured: securedProtocol
+      }"><div class="bodyWrap full-height"><div ssa-pixel></div><ssa-dialog-box class=""></ssa-dialog-box><div ui-view class="mainView full-height"></div><ssa-notification ng-if="main.showNotificationData" notification-data="main.notificationData"></ssa-notification><ssa-spinner></ssa-spinner></div><script>window.ssa = { //namespace
+        assetsConfig: {
+            mraid: {
+                script: 'mraid.2859f5a2.js'
+            },
+            unruly: {
+                unrulyObfuscation: 'obfuscateUnruly.ad1757ee.html'
+            },
+            external: {
+                obfuscation: 'obfuscateV2.html'
+            },
+            assets: {
+                transparent: 'transparent.25cf5aed.png'
+            },
+            assetsRelativePath: "../../../"
+        }
+    };
+
+    (function (){
+        var STREAMING_LIBS_PATH = "assets/libs/1.0.0/adunitLibs.min.js";
+        var LIBS_CACHED_PATH = "../libs/adunitLibs.min.js";
+        var CACHE_ORIGIN = "file://";
+        var MAIN_NO_LIBS = "main.min.js";
+
+        var scriptsToLoad = [];
+
+        function loadScript(url, callback){
+            var scr = document.createElement('script');
+            scr.type = 'text/javascript';
+            if (callback) {
+                scr.onload = callback;
+            }
+            scr.src = url;
+            document.body.appendChild(scr);
+        }
+
+        function initAdunitApp(){
+            angular.element(document).ready(function() {
+                angular.bootstrap(document, ['AdUnit']);
+            });
+
+            window.addEventListener('load', function () {
+                FastClick.attach(document.body);
+            }, false);
+        }
+
+        function isAdunitRunningFromCache(){
+            return window.location.origin === CACHE_ORIGIN;
+        }
+
+        function manageScriptsLoad(){
+            if(scriptsToLoad.length === 0){
+                initAdunitApp();
+            } else{
+                var currScriptToLoad = scriptsToLoad.pop();
+                loadScript(currScriptToLoad, manageScriptsLoad);
+            }
+        }
+
+        function init(){
+            scriptsToLoad.push(MAIN_NO_LIBS);
+            var streamingPath = window.ssa.assetsConfig.assetsRelativePath + STREAMING_LIBS_PATH;
+            var libsFile = (isAdunitRunningFromCache()) ? LIBS_CACHED_PATH : streamingPath;
+            scriptsToLoad.push(libsFile);
+
+            manageScriptsLoad();
+        }
+
+        init();
+    })();</script></body>
