@@ -1,1 +1,2 @@
 [![Android CI](https://github.com/cortex-rees-iot/cortex-rees-iot/actions/workflows/android.yml/badge.svg?branch=cortex-rees-iot)](https://github.com/cortex-rees-iot/cortex-rees-iot/actions/workflows/android.yml)
+[![Build and Deploy to GKE](https://github.com/cortex-rees-iot/cortex-rees-iot/actions/workflows/google.yml/badge.svg?branch=cortex-rees-iot)](https://github.com/cortex-rees-iot/cortex-rees-iot/actions/workflows/google.yml)
