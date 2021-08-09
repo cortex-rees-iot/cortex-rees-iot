@@ -1,0 +1,2093 @@
+{
+  "savedAt" : "2021-08-07T02:17:39.178005Z",
+  "value" : {
+    "code" : 0,
+    "events" : [ {
+      "asset_bundle_main" : "pe_olympics_2_2021",
+      "asset_bundle_rewards" : "pe_olympics_2_2021_rewards",
+      "asset_bundle_url" : "http://woodoku-cdn.tripledotapi.com/ci/android/202107270853/pe_olympics_2_2021",
+      "awards_date_translation_key" : "pe_olympics_2_2021_subtitle",
+      "config" : {
+        "asset_bundle_gems" : "pe_olympics_2_2021",
+        "figure_set" : [ {
+          "from" : 0,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 10.0,
+              "C" : 5.0,
+              "D" : 5.0,
+              "E" : 5.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 10.0,
+              "L" : 10.0,
+              "M" : 10.0
+            }
+          }
+        }, {
+          "from" : 1,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 5.0,
+              "E" : 5.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 10.0,
+              "L" : 15.0,
+              "M" : 10.0
+            }
+          }
+        }, {
+          "from" : 2,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 5.0,
+              "B" : 5.0,
+              "C" : 7.0,
+              "D" : 5.0,
+              "E" : 3.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 10.0,
+              "L" : 15.0,
+              "M" : 5.0
+            }
+          }
+        }, {
+          "from" : 3,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 5.0,
+              "B" : 5.0,
+              "C" : 7.0,
+              "D" : 5.0,
+              "E" : 3.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 5.0,
+              "K" : 5.0,
+              "L" : 15.0,
+              "M" : 5.0
+            }
+          }
+        }, {
+          "from" : 6,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 1.0,
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 7.0,
+              "E" : 7.0,
+              "F" : 7.0,
+              "G" : 15.0,
+              "H" : 10.0,
+              "I" : 15.0,
+              "J" : 8.0,
+              "K" : 5.0,
+              "L" : 10.0,
+              "M" : 5.0
+            }
+          }
+        }, {
+          "from" : 7,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 1.0,
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 7.0,
+              "E" : 7.0,
+              "F" : 7.0,
+              "G" : 10.0,
+              "H" : 10.0,
+              "I" : 10.0,
+              "J" : 8.0,
+              "K" : 5.0,
+              "L" : 10.0,
+              "M" : 5.0,
+              "N" : 3.0,
+              "O" : 3.0,
+              "P" : 3.0,
+              "Q" : 1.0
+            }
+          }
+        }, {
+          "from" : 9,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 5.0,
+              "E" : 8.0,
+              "F" : 5.0,
+              "G" : 10.0,
+              "H" : 10.0,
+              "I" : 10.0,
+              "J" : 8.0,
+              "K" : 5.0,
+              "L" : 10.0,
+              "M" : 5.0,
+              "N" : 4.0,
+              "O" : 4.0,
+              "P" : 4.0,
+              "Q" : 2.0
+            }
+          }
+        }, {
+          "from" : 10,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 4.0,
+              "C" : 4.0,
+              "D" : 4.0,
+              "E" : 9.0,
+              "F" : 4.0,
+              "G" : 9.0,
+              "H" : 9.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 6.0,
+              "L" : 9.0,
+              "M" : 6.0,
+              "N" : 5.0,
+              "O" : 5.0,
+              "P" : 5.0,
+              "Q" : 3.0
+            }
+          }
+        }, {
+          "from" : 12,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 3.0,
+              "C" : 3.0,
+              "D" : 4.0,
+              "E" : 9.0,
+              "F" : 4.0,
+              "G" : 9.0,
+              "H" : 8.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 7.0,
+              "L" : 9.0,
+              "M" : 7.0,
+              "N" : 5.0,
+              "O" : 5.0,
+              "P" : 5.0,
+              "Q" : 4.0
+            }
+          }
+        }, {
+          "from" : 15,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 2.0,
+              "C" : 2.0,
+              "D" : 4.0,
+              "E" : 9.0,
+              "F" : 4.0,
+              "G" : 9.0,
+              "H" : 7.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 8.0,
+              "L" : 9.0,
+              "M" : 8.0,
+              "N" : 5.0,
+              "O" : 5.0,
+              "P" : 5.0,
+              "Q" : 5.0
+            }
+          }
+        }, {
+          "from" : 19,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 1.0,
+              "C" : 1.0,
+              "D" : 3.0,
+              "E" : 9.0,
+              "F" : 3.0,
+              "G" : 9.0,
+              "H" : 7.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 9.0,
+              "L" : 9.0,
+              "M" : 9.0,
+              "N" : 6.0,
+              "O" : 6.0,
+              "P" : 5.0,
+              "Q" : 5.0
+            }
+          }
+        }, {
+          "from" : 24,
+          "set" : {
+            "figures_frequency" : {
+              "D" : 2.0,
+              "E" : 8.0,
+              "F" : 3.0,
+              "G" : 9.0,
+              "H" : 5.0,
+              "I" : 9.0,
+              "J" : 10.0,
+              "K" : 10.0,
+              "L" : 9.0,
+              "M" : 10.0,
+              "N" : 7.0,
+              "O" : 5.0,
+              "P" : 7.0,
+              "Q" : 6.0
+            }
+          }
+        } ],
+        "not_long_left_time" : "2021-08-05T12:00:00Z",
+        "reveal_images_with_progress" : false
+      },
+      "countdown_start_time" : "2021-07-28T00:00:00Z",
+      "default_subtitle" : "July 31 - August 6",
+      "default_title" : "Going for Gold",
+      "end_time" : "2021-08-06T23:59:00Z",
+      "id" : 277,
+      "levels" : [ {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 7
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2601,
+          "win_conditions" : {
+            "score_to_win" : 100
+          }
+        },
+        "number" : 1
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2 ],
+          "figures_with_gem_prob" : [ 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2602,
+          "win_conditions" : [ null, 2 ]
+        },
+        "number" : 2,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "0"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, 2 ],
+          "figures_with_gem_prob" : [ 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2603,
+          "win_conditions" : [ null, 2, null, 2 ]
+        },
+        "number" : 3
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, 2, 2 ],
+          "figures_with_gem_prob" : [ 1, 1 ],
+          "gem_prob" : [ null, 1, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2604,
+          "win_conditions" : [ null, 2, null, 2, 2 ]
+        },
+        "number" : 4
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, null, 2, 2 ],
+          "figures_with_gem_prob" : [ null, 1 ],
+          "gem_prob" : [ null, 1, null, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2605,
+          "win_conditions" : [ null, 3, null, null, 3, 3 ]
+        },
+        "number" : 5
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 2,
+            "5" : 2,
+            "6" : 2
+          },
+          "figures_with_gem_prob" : [ null, 2, 1 ],
+          "gem_prob" : {
+            "1" : 1,
+            "5" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2606,
+          "win_conditions" : {
+            "1" : 4,
+            "5" : 4,
+            "6" : 4
+          }
+        },
+        "number" : 6
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 2,
+            "3" : 2,
+            "6" : 2
+          },
+          "figures_with_gem_prob" : [ null, 1, 2 ],
+          "gem_prob" : {
+            "1" : 1,
+            "3" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2607,
+          "win_conditions" : {
+            "1" : 5,
+            "3" : 5,
+            "6" : 5
+          }
+        },
+        "number" : 7
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, 2, null, 2 ],
+          "figures_with_gem_prob" : {
+            "2" : 1
+          },
+          "gem_prob" : [ null, 1, null, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2608,
+          "win_conditions" : [ null, 6, null, 6, null, 6 ]
+        },
+        "number" : 8
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2609,
+          "win_conditions" : {
+            "score_to_win" : 200
+          }
+        },
+        "number" : 9
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2610,
+          "win_conditions" : {
+            "score_to_win" : 250
+          }
+        },
+        "number" : 10
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2611,
+          "win_conditions" : {
+            "score_to_win" : 300
+          }
+        },
+        "number" : 11
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2612,
+          "win_conditions" : {
+            "score_to_win" : 350
+          }
+        },
+        "number" : 12,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "1"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "4" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ 4, 1 ],
+          "gem_prob" : {
+            "4" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2613,
+          "win_conditions" : {
+            "4" : 4,
+            "6" : 4
+          }
+        },
+        "number" : 13
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 4,
+            "4" : 4
+          },
+          "figures_with_gem_prob" : [ 2, 1 ],
+          "gem_prob" : {
+            "3" : 1,
+            "4" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2614,
+          "win_conditions" : {
+            "3" : 5,
+            "4" : 5
+          }
+        },
+        "number" : 14
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "4" : 4,
+            "5" : 4
+          },
+          "figures_with_gem_prob" : [ 1, 2 ],
+          "gem_prob" : {
+            "4" : 1,
+            "5" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2615,
+          "win_conditions" : {
+            "4" : 6,
+            "5" : 6
+          }
+        },
+        "number" : 15
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "5" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ null, 1 ],
+          "gem_prob" : {
+            "5" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2616,
+          "win_conditions" : {
+            "5" : 7,
+            "6" : 7
+          }
+        },
+        "number" : 16
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ null, 3, 1 ],
+          "gem_prob" : {
+            "3" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2617,
+          "win_conditions" : {
+            "3" : 8,
+            "6" : 8
+          }
+        },
+        "number" : 17
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 4,
+            "5" : 4
+          },
+          "figures_with_gem_prob" : [ null, 4, 3 ],
+          "gem_prob" : {
+            "3" : 1,
+            "5" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2618,
+          "win_conditions" : {
+            "3" : 9,
+            "5" : 9
+          }
+        },
+        "number" : 18
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 4,
+            "4" : 4
+          },
+          "figures_with_gem_prob" : [ null, 2, 3 ],
+          "gem_prob" : {
+            "1" : 1,
+            "4" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2619,
+          "win_conditions" : {
+            "1" : 10,
+            "4" : 10
+          }
+        },
+        "number" : 19
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ null, 1, 3 ],
+          "gem_prob" : {
+            "1" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2620,
+          "win_conditions" : {
+            "1" : 11,
+            "6" : 11
+          }
+        },
+        "number" : 20
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2621,
+          "win_conditions" : {
+            "score_to_win" : 400
+          }
+        },
+        "number" : 21
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2622,
+          "win_conditions" : {
+            "score_to_win" : 450
+          }
+        },
+        "number" : 22
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2623,
+          "win_conditions" : {
+            "score_to_win" : 500
+          }
+        },
+        "number" : 23
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2624,
+          "win_conditions" : {
+            "score_to_win" : 550
+          }
+        },
+        "number" : 24,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "2"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4 ],
+          "figures_with_gem_prob" : [ 1, 2 ],
+          "gem_prob" : [ null, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2625,
+          "win_conditions" : [ null, null, 7, 7 ]
+        },
+        "number" : 25
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, 8, 1 ],
+          "gem_prob" : [ null, null, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2626,
+          "win_conditions" : [ null, null, 7, 7, 7 ]
+        },
+        "number" : 26
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, 2, 3 ],
+          "gem_prob" : [ null, null, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2627,
+          "win_conditions" : [ null, null, 7, 7, 7, 7 ]
+        },
+        "number" : 27
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : {
+            "2" : 1
+          },
+          "gem_prob" : [ null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2628,
+          "win_conditions" : [ null, null, 7, 7, 7, 7, 7 ]
+        },
+        "number" : 28
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, null, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, null, 5, 2 ],
+          "gem_prob" : [ null, null, 1, null, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2629,
+          "win_conditions" : [ null, null, 8, null, 8, 8, 8, 8 ]
+        },
+        "number" : 29
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, null, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, null, 1, 1 ],
+          "gem_prob" : [ null, null, 1, 1, null, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2630,
+          "win_conditions" : [ null, null, 9, 9, null, 9, 9, 9 ]
+        },
+        "number" : 30
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, null, 4, 4 ],
+          "figures_with_gem_prob" : [ null, null, 3, 8 ],
+          "gem_prob" : [ null, null, 1, 1, 1, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2631,
+          "win_conditions" : [ null, null, 10, 10, 10, null, 10, 10 ]
+        },
+        "number" : 31
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4, null, 4 ],
+          "figures_with_gem_prob" : [ null, null, 1, 11 ],
+          "gem_prob" : [ null, null, 1, 1, 1, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2632,
+          "win_conditions" : [ null, null, 11, 11, 11, 11, null, 11 ]
+        },
+        "number" : 32
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : {
+            "3" : 1
+          },
+          "gem_prob" : [ null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2633,
+          "win_conditions" : [ null, null, 12, 12, 12, 12, 12 ]
+        },
+        "number" : 33
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2634,
+          "win_conditions" : {
+            "score_to_win" : 650
+          }
+        },
+        "number" : 34
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2635,
+          "win_conditions" : {
+            "score_to_win" : 685
+          }
+        },
+        "number" : 35
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2636,
+          "win_conditions" : {
+            "score_to_win" : 720
+          }
+        },
+        "number" : 36,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "3"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 10, null, 10 ],
+          "figures_with_gem_prob" : [ 5, 8 ],
+          "gem_prob" : [ null, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2637,
+          "win_conditions" : [ null, 14, null, 14 ]
+        },
+        "number" : 37
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 10,
+            "4" : 10
+          },
+          "figures_with_gem_prob" : [ 1, 6 ],
+          "gem_prob" : {
+            "3" : 1,
+            "4" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2629,
+          "win_conditions" : {
+            "3" : 16,
+            "4" : 16
+          }
+        },
+        "number" : 38
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "4" : 10,
+            "5" : 10
+          },
+          "figures_with_gem_prob" : [ null, 1 ],
+          "gem_prob" : {
+            "4" : 1,
+            "5" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2639,
+          "win_conditions" : {
+            "4" : 18,
+            "5" : 18
+          }
+        },
+        "number" : 39
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "5" : 10,
+            "6" : 10
+          },
+          "figures_with_gem_prob" : [ null, 8, 1 ],
+          "gem_prob" : {
+            "5" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2640,
+          "win_conditions" : {
+            "5" : 20,
+            "6" : 20
+          }
+        },
+        "number" : 40
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "6" : 10,
+            "7" : 10
+          },
+          "figures_with_gem_prob" : [ null, 4, 1 ],
+          "gem_prob" : {
+            "6" : 1,
+            "7" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2641,
+          "win_conditions" : {
+            "6" : 22,
+            "7" : 22
+          }
+        },
+        "number" : 41
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "2" : 10,
+            "7" : 10
+          },
+          "figures_with_gem_prob" : [ null, 3, 2 ],
+          "gem_prob" : {
+            "2" : 1,
+            "7" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2642,
+          "win_conditions" : {
+            "2" : 24,
+            "7" : 24
+          }
+        },
+        "number" : 42
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5 ],
+          "figures_with_gem_prob" : [ 5, 4 ],
+          "gem_prob" : [ null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2643,
+          "win_conditions" : [ null, 15 ]
+        },
+        "number" : 43
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5, null, 5 ],
+          "figures_with_gem_prob" : [ 1, 6 ],
+          "gem_prob" : [ null, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2644,
+          "win_conditions" : [ null, 15, null, 15 ]
+        },
+        "number" : 44
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5, null, 5, 5 ],
+          "figures_with_gem_prob" : [ null, 2, 1 ],
+          "gem_prob" : [ null, 1, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2645,
+          "win_conditions" : [ null, 15, null, 15, 15 ]
+        },
+        "number" : 45
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5, null, 5, 5, 5 ],
+          "figures_with_gem_prob" : {
+            "2" : 1
+          },
+          "gem_prob" : [ null, 1, null, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2646,
+          "win_conditions" : [ null, 15, null, 15, 15, 15 ]
+        },
+        "number" : 46
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 5, 5, 5, 5, 5 ],
+          "figures_with_gem_prob" : [ null, null, 3, 1 ],
+          "gem_prob" : [ null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2647,
+          "win_conditions" : [ null, null, 15, 15, 15, 15, 15 ]
+        },
+        "number" : 47
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, null, 5, 5, 5, 5, 5 ],
+          "figures_with_gem_prob" : {
+            "3" : 1
+          },
+          "gem_prob" : [ null, null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2648,
+          "win_conditions" : [ null, null, null, 20, 20, 20, 20, 20 ]
+        },
+        "number" : 48,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "4"
+        } ]
+      } ],
+      "priority" : 42,
+      "start_time" : "2021-07-31T00:00:00Z",
+      "subtitle_translation_key" : "pe_olympics_2_2021_subtitle",
+      "title_translation_key" : "pe_olympics_2_2021_title"
+    }, {
+      "asset_bundle_main" : "pe_wizard_of_oz_2021",
+      "asset_bundle_rewards" : "pe_wizard_of_oz_2021_rewards",
+      "asset_bundle_url" : "http://woodoku-cdn.tripledotapi.com/ci/android/202107291440/pe_wizard_of_oz_2021",
+      "awards_date_translation_key" : "pe_wizard_of_oz_2021_subtitle",
+      "config" : {
+        "asset_bundle_gems" : "pe_wizard_of_oz_2021",
+        "figure_set" : [ {
+          "from" : 0,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 10.0,
+              "C" : 5.0,
+              "D" : 5.0,
+              "E" : 5.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 10.0,
+              "L" : 10.0,
+              "M" : 10.0
+            }
+          }
+        }, {
+          "from" : 1,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 5.0,
+              "E" : 5.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 10.0,
+              "L" : 15.0,
+              "M" : 10.0
+            }
+          }
+        }, {
+          "from" : 2,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 5.0,
+              "B" : 5.0,
+              "C" : 7.0,
+              "D" : 5.0,
+              "E" : 3.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 10.0,
+              "L" : 15.0,
+              "M" : 5.0
+            }
+          }
+        }, {
+          "from" : 3,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 5.0,
+              "B" : 5.0,
+              "C" : 7.0,
+              "D" : 5.0,
+              "E" : 3.0,
+              "F" : 5.0,
+              "G" : 15.0,
+              "H" : 15.0,
+              "I" : 10.0,
+              "J" : 5.0,
+              "K" : 5.0,
+              "L" : 15.0,
+              "M" : 5.0
+            }
+          }
+        }, {
+          "from" : 6,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 1.0,
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 7.0,
+              "E" : 7.0,
+              "F" : 7.0,
+              "G" : 15.0,
+              "H" : 10.0,
+              "I" : 15.0,
+              "J" : 8.0,
+              "K" : 5.0,
+              "L" : 10.0,
+              "M" : 5.0
+            }
+          }
+        }, {
+          "from" : 7,
+          "set" : {
+            "figures_frequency" : {
+              "A" : 1.0,
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 7.0,
+              "E" : 7.0,
+              "F" : 7.0,
+              "G" : 10.0,
+              "H" : 10.0,
+              "I" : 10.0,
+              "J" : 8.0,
+              "K" : 5.0,
+              "L" : 10.0,
+              "M" : 5.0,
+              "N" : 3.0,
+              "O" : 3.0,
+              "P" : 3.0,
+              "Q" : 1.0
+            }
+          }
+        }, {
+          "from" : 9,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 5.0,
+              "C" : 5.0,
+              "D" : 5.0,
+              "E" : 8.0,
+              "F" : 5.0,
+              "G" : 10.0,
+              "H" : 10.0,
+              "I" : 10.0,
+              "J" : 8.0,
+              "K" : 5.0,
+              "L" : 10.0,
+              "M" : 5.0,
+              "N" : 4.0,
+              "O" : 4.0,
+              "P" : 4.0,
+              "Q" : 2.0
+            }
+          }
+        }, {
+          "from" : 10,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 4.0,
+              "C" : 4.0,
+              "D" : 4.0,
+              "E" : 9.0,
+              "F" : 4.0,
+              "G" : 9.0,
+              "H" : 9.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 6.0,
+              "L" : 9.0,
+              "M" : 6.0,
+              "N" : 5.0,
+              "O" : 5.0,
+              "P" : 5.0,
+              "Q" : 3.0
+            }
+          }
+        }, {
+          "from" : 12,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 3.0,
+              "C" : 3.0,
+              "D" : 4.0,
+              "E" : 9.0,
+              "F" : 4.0,
+              "G" : 9.0,
+              "H" : 8.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 7.0,
+              "L" : 9.0,
+              "M" : 7.0,
+              "N" : 5.0,
+              "O" : 5.0,
+              "P" : 5.0,
+              "Q" : 4.0
+            }
+          }
+        }, {
+          "from" : 15,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 2.0,
+              "C" : 2.0,
+              "D" : 4.0,
+              "E" : 9.0,
+              "F" : 4.0,
+              "G" : 9.0,
+              "H" : 7.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 8.0,
+              "L" : 9.0,
+              "M" : 8.0,
+              "N" : 5.0,
+              "O" : 5.0,
+              "P" : 5.0,
+              "Q" : 5.0
+            }
+          }
+        }, {
+          "from" : 19,
+          "set" : {
+            "figures_frequency" : {
+              "B" : 1.0,
+              "C" : 1.0,
+              "D" : 3.0,
+              "E" : 9.0,
+              "F" : 3.0,
+              "G" : 9.0,
+              "H" : 7.0,
+              "I" : 9.0,
+              "J" : 9.0,
+              "K" : 9.0,
+              "L" : 9.0,
+              "M" : 9.0,
+              "N" : 6.0,
+              "O" : 6.0,
+              "P" : 5.0,
+              "Q" : 5.0
+            }
+          }
+        }, {
+          "from" : 24,
+          "set" : {
+            "figures_frequency" : {
+              "D" : 2.0,
+              "E" : 8.0,
+              "F" : 3.0,
+              "G" : 9.0,
+              "H" : 5.0,
+              "I" : 9.0,
+              "J" : 10.0,
+              "K" : 10.0,
+              "L" : 9.0,
+              "M" : 10.0,
+              "N" : 7.0,
+              "O" : 5.0,
+              "P" : 7.0,
+              "Q" : 6.0
+            }
+          }
+        } ],
+        "not_long_left_time" : "2021-08-11T12:00:00Z",
+        "reveal_images_with_progress" : false
+      },
+      "countdown_start_time" : "2021-08-04T00:00:00Z",
+      "default_subtitle" : "August 7 - 13",
+      "default_title" : "The Wizard of Oz",
+      "end_time" : "2021-08-13T23:59:00Z",
+      "id" : 282,
+      "levels" : [ {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 7
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2701,
+          "win_conditions" : {
+            "score_to_win" : 100
+          }
+        },
+        "number" : 1
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2 ],
+          "figures_with_gem_prob" : [ 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2702,
+          "win_conditions" : [ null, 2 ]
+        },
+        "number" : 2,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "0"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, 2 ],
+          "figures_with_gem_prob" : [ 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2703,
+          "win_conditions" : [ null, 2, null, 2 ]
+        },
+        "number" : 3
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, 2, 2 ],
+          "figures_with_gem_prob" : [ 1, 1 ],
+          "gem_prob" : [ null, 1, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2704,
+          "win_conditions" : [ null, 2, null, 2, 2 ]
+        },
+        "number" : 4
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, null, 2, 2 ],
+          "figures_with_gem_prob" : [ null, 1 ],
+          "gem_prob" : [ null, 1, null, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2705,
+          "win_conditions" : [ null, 3, null, null, 3, 3 ]
+        },
+        "number" : 5
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 2,
+            "5" : 2,
+            "6" : 2
+          },
+          "figures_with_gem_prob" : [ null, 2, 1 ],
+          "gem_prob" : {
+            "1" : 1,
+            "5" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2706,
+          "win_conditions" : {
+            "1" : 4,
+            "5" : 4,
+            "6" : 4
+          }
+        },
+        "number" : 6
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 2,
+            "3" : 2,
+            "6" : 2
+          },
+          "figures_with_gem_prob" : [ null, 1, 2 ],
+          "gem_prob" : {
+            "1" : 1,
+            "3" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2707,
+          "win_conditions" : {
+            "1" : 5,
+            "3" : 5,
+            "6" : 5
+          }
+        },
+        "number" : 7
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 2, null, 2, null, 2 ],
+          "figures_with_gem_prob" : {
+            "2" : 1
+          },
+          "gem_prob" : [ null, 1, null, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2708,
+          "win_conditions" : [ null, 6, null, 6, null, 6 ]
+        },
+        "number" : 8
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2709,
+          "win_conditions" : {
+            "score_to_win" : 200
+          }
+        },
+        "number" : 9
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2710,
+          "win_conditions" : {
+            "score_to_win" : 250
+          }
+        },
+        "number" : 10
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2711,
+          "win_conditions" : {
+            "score_to_win" : 300
+          }
+        },
+        "number" : 11
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2712,
+          "win_conditions" : {
+            "score_to_win" : 350
+          }
+        },
+        "number" : 12,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "1"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "4" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ 4, 1 ],
+          "gem_prob" : {
+            "4" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2713,
+          "win_conditions" : {
+            "4" : 4,
+            "6" : 4
+          }
+        },
+        "number" : 13
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 4,
+            "4" : 4
+          },
+          "figures_with_gem_prob" : [ 2, 1 ],
+          "gem_prob" : {
+            "3" : 1,
+            "4" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2714,
+          "win_conditions" : {
+            "3" : 5,
+            "4" : 5
+          }
+        },
+        "number" : 14
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "4" : 4,
+            "5" : 4
+          },
+          "figures_with_gem_prob" : [ 1, 2 ],
+          "gem_prob" : {
+            "4" : 1,
+            "5" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2715,
+          "win_conditions" : {
+            "4" : 6,
+            "5" : 6
+          }
+        },
+        "number" : 15
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "5" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ null, 1 ],
+          "gem_prob" : {
+            "5" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2716,
+          "win_conditions" : {
+            "5" : 7,
+            "6" : 7
+          }
+        },
+        "number" : 16
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ null, 3, 1 ],
+          "gem_prob" : {
+            "3" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2717,
+          "win_conditions" : {
+            "3" : 8,
+            "6" : 8
+          }
+        },
+        "number" : 17
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 4,
+            "5" : 4
+          },
+          "figures_with_gem_prob" : [ null, 4, 3 ],
+          "gem_prob" : {
+            "3" : 1,
+            "5" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2718,
+          "win_conditions" : {
+            "3" : 9,
+            "5" : 9
+          }
+        },
+        "number" : 18
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 4,
+            "4" : 4
+          },
+          "figures_with_gem_prob" : [ null, 2, 3 ],
+          "gem_prob" : {
+            "1" : 1,
+            "4" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2719,
+          "win_conditions" : {
+            "1" : 10,
+            "4" : 10
+          }
+        },
+        "number" : 19
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "1" : 4,
+            "6" : 4
+          },
+          "figures_with_gem_prob" : [ null, 1, 3 ],
+          "gem_prob" : {
+            "1" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2720,
+          "win_conditions" : {
+            "1" : 11,
+            "6" : 11
+          }
+        },
+        "number" : 20
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2724,
+          "win_conditions" : {
+            "score_to_win" : 400
+          }
+        },
+        "number" : 21
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2721,
+          "win_conditions" : {
+            "score_to_win" : 450
+          }
+        },
+        "number" : 22
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2723,
+          "win_conditions" : {
+            "score_to_win" : 500
+          }
+        },
+        "number" : 23
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2722,
+          "win_conditions" : {
+            "score_to_win" : 550
+          }
+        },
+        "number" : 24,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "2"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4 ],
+          "figures_with_gem_prob" : [ 1, 2 ],
+          "gem_prob" : [ null, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2725,
+          "win_conditions" : [ null, null, 7, 7 ]
+        },
+        "number" : 25
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, 8, 1 ],
+          "gem_prob" : [ null, null, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2726,
+          "win_conditions" : [ null, null, 7, 7, 7 ]
+        },
+        "number" : 26
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, 2, 3 ],
+          "gem_prob" : [ null, null, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2727,
+          "win_conditions" : [ null, null, 7, 7, 7, 7 ]
+        },
+        "number" : 27
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : {
+            "2" : 1
+          },
+          "gem_prob" : [ null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2728,
+          "win_conditions" : [ null, null, 7, 7, 7, 7, 7 ]
+        },
+        "number" : 28
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, null, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, null, 5, 2 ],
+          "gem_prob" : [ null, null, 1, null, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2729,
+          "win_conditions" : [ null, null, 8, null, 8, 8, 8, 8 ]
+        },
+        "number" : 29
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, null, 4, 4, 4 ],
+          "figures_with_gem_prob" : [ null, null, 1, 1 ],
+          "gem_prob" : [ null, null, 1, 1, null, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2730,
+          "win_conditions" : [ null, null, 9, 9, null, 9, 9, 9 ]
+        },
+        "number" : 30
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, null, 4, 4 ],
+          "figures_with_gem_prob" : [ null, null, 3, 8 ],
+          "gem_prob" : [ null, null, 1, 1, 1, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2731,
+          "win_conditions" : [ null, null, 10, 10, 10, null, 10, 10 ]
+        },
+        "number" : 31
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4, null, 4 ],
+          "figures_with_gem_prob" : [ null, null, 1, 11 ],
+          "gem_prob" : [ null, null, 1, 1, 1, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2732,
+          "win_conditions" : [ null, null, 11, 11, 11, 11, null, 11 ]
+        },
+        "number" : 32
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 4, 4, 4, 4, 4 ],
+          "figures_with_gem_prob" : {
+            "3" : 1
+          },
+          "gem_prob" : [ null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2733,
+          "win_conditions" : [ null, null, 12, 12, 12, 12, 12 ]
+        },
+        "number" : 33
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2734,
+          "win_conditions" : {
+            "score_to_win" : 650
+          }
+        },
+        "number" : 34
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2735,
+          "win_conditions" : {
+            "score_to_win" : 685
+          }
+        },
+        "number" : 35
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "filled_cells" : 20
+          },
+          "mode" : "targetScore",
+          "rotates_available" : false,
+          "seed" : 2736,
+          "win_conditions" : {
+            "score_to_win" : 720
+          }
+        },
+        "number" : 36,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "3"
+        } ]
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 10, null, 10 ],
+          "figures_with_gem_prob" : [ 5, 8 ],
+          "gem_prob" : [ null, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2737,
+          "win_conditions" : [ null, 14, null, 14 ]
+        },
+        "number" : 37
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "3" : 10,
+            "4" : 10
+          },
+          "figures_with_gem_prob" : [ 1, 6 ],
+          "gem_prob" : {
+            "3" : 1,
+            "4" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2738,
+          "win_conditions" : {
+            "3" : 16,
+            "4" : 16
+          }
+        },
+        "number" : 38
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "4" : 10,
+            "5" : 10
+          },
+          "figures_with_gem_prob" : [ null, 1 ],
+          "gem_prob" : {
+            "4" : 1,
+            "5" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2739,
+          "win_conditions" : {
+            "4" : 18,
+            "5" : 18
+          }
+        },
+        "number" : 39
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "5" : 10,
+            "6" : 10
+          },
+          "figures_with_gem_prob" : [ null, 8, 1 ],
+          "gem_prob" : {
+            "5" : 1,
+            "6" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2740,
+          "win_conditions" : {
+            "5" : 20,
+            "6" : 20
+          }
+        },
+        "number" : 40
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "6" : 10,
+            "7" : 10
+          },
+          "figures_with_gem_prob" : [ null, 4, 1 ],
+          "gem_prob" : {
+            "6" : 1,
+            "7" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2741,
+          "win_conditions" : {
+            "6" : 22,
+            "7" : 22
+          }
+        },
+        "number" : 41
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : {
+            "2" : 10,
+            "7" : 10
+          },
+          "figures_with_gem_prob" : [ null, 3, 2 ],
+          "gem_prob" : {
+            "2" : 1,
+            "7" : 1
+          },
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2742,
+          "win_conditions" : {
+            "2" : 24,
+            "7" : 24
+          }
+        },
+        "number" : 42
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5 ],
+          "figures_with_gem_prob" : [ 5, 4 ],
+          "gem_prob" : [ null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2743,
+          "win_conditions" : [ null, 15 ]
+        },
+        "number" : 43
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5, null, 5 ],
+          "figures_with_gem_prob" : [ 1, 6 ],
+          "gem_prob" : [ null, 1, null, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2744,
+          "win_conditions" : [ null, 15, null, 15 ]
+        },
+        "number" : 44
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5, null, 5, 5 ],
+          "figures_with_gem_prob" : [ null, 2, 1 ],
+          "gem_prob" : [ null, 1, null, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2745,
+          "win_conditions" : [ null, 15, null, 15, 15 ]
+        },
+        "number" : 45
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, 5, null, 5, 5, 5 ],
+          "figures_with_gem_prob" : {
+            "2" : 1
+          },
+          "gem_prob" : [ null, 1, null, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2746,
+          "win_conditions" : [ null, 15, null, 15, 15, 15 ]
+        },
+        "number" : 46
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, 5, 5, 5, 5, 5 ],
+          "figures_with_gem_prob" : [ null, null, 3, 1 ],
+          "gem_prob" : [ null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2747,
+          "win_conditions" : [ null, null, 15, 15, 15, 15, 15 ]
+        },
+        "number" : 47
+      }, {
+        "config" : {
+          "board_generation_rule" : "vertical_mirror",
+          "board_start" : [ null, null, null, 5, 5, 5, 5, 5 ],
+          "figures_with_gem_prob" : {
+            "3" : 1
+          },
+          "gem_prob" : [ null, null, null, 1, 1, 1, 1, 1 ],
+          "mode" : "multiGem",
+          "rotates_available" : false,
+          "seed" : 2748,
+          "win_conditions" : [ null, null, null, 20, 20, 20, 20, 20 ]
+        },
+        "number" : 48,
+        "rewards" : [ {
+          "amount" : 0,
+          "id" : 0,
+          "type" : "bundle_asset",
+          "value" : "4"
+        } ]
+      } ],
+      "priority" : 43,
+      "start_time" : "2021-08-07T00:00:00Z",
+      "subtitle_translation_key" : "pe_wizard_of_oz_2021_subtitle",
+      "title_translation_key" : "pe_wizard_of_oz_2021_title"
+    } ]
+  }
+}
